@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 👋 About Me<br><br>I'm a **Front-End Developer** specializing in **React.js, Next.js, and TypeScript**, with hands-on experience building responsive, production-ready web applications. I've developed 5+ projects across e-commerce, social networking, news, and media platforms, focusing on clean architecture, performance, and user experience.<br><br>* 🔭 I'm currently working as a **Frontend Developer Intern at Omnicore AI**.<br>* 👯 I'm looking to collaborate on **React.js, Next.js, and open-source projects**.<br>* 🤝 I'm looking to improve my skills in **scalable frontend architecture and web performance**.<br>* 🌱 I'm currently learning **advanced React, Next.js, and software development concepts**.<br>* 💬 Ask me about **React, Next.js, TypeScript, Redux Toolkit, React Query, and Tailwind CSS**.<br>* ⚡ Fun fact: I've built applications ranging from skincare e-commerce platforms to social networks and movie discovery apps.<br>
 
 
